@@ -14,6 +14,7 @@ export interface QueryOptions {
   limit?: number;
   maxLimit?: number;
   cache?: number | false;
+  alwaysPaginate?: boolean;
 }
 
 export interface JoinOptions {
