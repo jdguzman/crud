@@ -1,7 +1,7 @@
 {
   "name": "@tangogroup/crud-typeorm",
   "description": "NestJs CRUD for RESTful APIs - TypeORM",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "license": "MIT",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
