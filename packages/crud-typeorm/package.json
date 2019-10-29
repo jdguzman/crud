@@ -1,5 +1,5 @@
 {
-  "name": "@nestjsx/crud-typeorm",
+  "name": "@tangogroup/crud-typeorm",
   "description": "NestJs CRUD for RESTful APIs - TypeORM",
   "version": "4.2.0",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsx/crud.git"
+    "url": "ssh://git@github.com/TangoGroup/typescript-packages.git"
   },
   "bugs": {
     "url": "https://github.com/nestjsx/crud/issues"
